@@ -13,9 +13,7 @@ export default function Home() {
         <h1 className={styles.title}>Welcome to dev portfolio</h1>
       </main>
 
-      <footer className={styles.footer}>
-        Powered by &nbsp;<a href="https://tpriyanshu.bitbucket.io">tpriyanshu</a>
-      </footer>
+      <footer className={styles.footer}>Powered by {" "}<a href="https://tpriyanshu.bitbucket.io">tpriyanshu</a></footer>
     </div>
   );
 }

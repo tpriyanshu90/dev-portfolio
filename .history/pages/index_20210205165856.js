@@ -14,7 +14,10 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        Powered by &nbsp;<a href="https://tpriyanshu.bitbucket.io">tpriyanshu</a>
+      
+          Powered by{" "}
+          tpriyanshu
+        </a>
       </footer>
     </div>
   );
