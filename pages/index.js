@@ -11,6 +11,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Welcome to dev portfolio</h1>
+        <p>This site is under construction</p>
       </main>
 
       <footer className={styles.footer}>
